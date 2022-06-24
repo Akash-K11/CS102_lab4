@@ -1,0 +1,19 @@
+table.t2{
+    text-align: center;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(243,164,140);
+    border: black;
+}
+th{
+    border: 1px solid black;
+    border collapse: collapse;
+}
+table.t3{
+    text-align: center;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(243,164,140);
+    border: black;
+    font-size:larger;
+}
